@@ -26,6 +26,6 @@ Kubernetes Internal(以下、勉強会)は、Kubernetesユーザが集まり、K
 
 ---
 
-Original source: [https://k8sjp.github.io/code-of-conduct/)  
+Original source: [https://k8sjp.github.io/code-of-conduct/](https://k8sjp.github.io/code-of-conduct/)  
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
